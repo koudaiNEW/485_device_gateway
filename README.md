@@ -17,7 +17,7 @@
 
 
   <p align="center">
-    <a href="https://github.com/koudaiNEW/485_device_gateway">查看Demo</a>
+    <a href="https://github.com/koudaiNEW/485_device_gateway">Demo</a>
     ·
     <a href="https://github.com/koudaiNEW/485_device_gateway/issues">报告Bug</a>
     ·
@@ -32,6 +32,7 @@
 - [文件目录说明](#文件目录说明)
 - [使用到的框架与库](#使用到的框架与库)
 - [版本控制](#版本控制)
+- [版权说明](#版权说明)
 - [鸣谢](#鸣谢)
 
 ### 克隆仓库
